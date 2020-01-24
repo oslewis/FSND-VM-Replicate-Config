@@ -1,4 +1,4 @@
-fullstack-nanodegree-vm
+# VM - VAGRANT - Database Forum - Practice
 =============
-
-Common code for the Relational Databases and Full Stack Fundamentals courses
+## description 
+Common code for Relational Databases - through a sample forum setup
